@@ -6,7 +6,7 @@ title: Soren Laney's Resume
 
 
 <div id="webaddress">
-<a href="soren@laneymedia.org">datascience@byui.edu</a>
+<a href="soren@laneymedia.org">soren@laneymedia.org</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
