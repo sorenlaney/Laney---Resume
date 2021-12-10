@@ -6,7 +6,7 @@ title: Soren Laney's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="soren@laneymedia.org">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
@@ -37,6 +37,8 @@ __Orenco Composites__, Sutherlin, OR
 - Started as Entry level Draftsman finished as Draftsman I
 - Used Auto CAD and Solidworks and Solidworks PDM to create technical drawings for manufacturing and sales.
 - Worked with over 8 different departments to make drawings up-to-date and to cost waste in products.
+
+### Team Leader
 
 `May 2019 - april 2021`
 __Aptive Enviromental__, Provo, UT
