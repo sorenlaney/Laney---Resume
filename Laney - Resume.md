@@ -65,6 +65,7 @@ __Laney Media__, Denver, CO
 __Service Missionary__, Cuiba, Brazil
 
 
+<!-- You're resume looks good. You'll want to move it into the docs folder to replace the index.md file in there so you can set up your website. -->
 
 <!-- ### Footer
 
