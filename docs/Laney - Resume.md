@@ -8,6 +8,7 @@ title: Soren Laney's Resume
 <div id="webaddress">
 <a href="soren@laneymedia.org">soren@laneymedia.org</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://github.com/sorenlaney">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -35,16 +36,16 @@ __Brigham Young University - Idaho__, Rexburg, ID
 __Orenco Composites__, Sutherlin, OR
 
 - Started as Entry level Draftsman finished as Draftsman I
-- Used Auto CAD and Solidworks and Solidworks PDM to create technical drawings for manufacturing and sales.
-- Worked with over 8 different departments to make drawings up-to-date and to cost waste in products.
+- Used Auto CAD and Solidworks and Solidworks PDM to create technical drawings for manufacturing and sales
+- Worked with over 8 different departments to make drawings up-to-date and to cost waste in products
 
 ### Team Leader
 
 `May 2019 - april 2021`
 __Aptive Enviromental__, Provo, UT
 
-- Managed and trained sales reps that produced over $250,000 YRR in one month.
-- Personally closed over $120,000 of YRR.
+- Managed and trained sales reps that produced over $250,000 YRR in one month
+- Personally closed over $120,000 of YRR
 - Developed sales and comunication skills
 
 
@@ -53,9 +54,9 @@ __Aptive Enviromental__, Provo, UT
 `November 2020 - Present`
 __Laney Media__, Denver, CO
 
-- USed Excel and R studio to create linear regression models for social media content performance.
-- Development of financial processes within the company. 
-- Created SOP's for services rendered.
+- USed Excel and R studio to create linear regression models for social media content performance
+- Development of financial processes within the company
+- Created SOP's for services rendered
 
 
 ## Service and Work History
